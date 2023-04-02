@@ -1,0 +1,10 @@
+2023-04-03 00:48:33.513522 - Initialized conversion of CBT508
+2023-04-03 00:48:33.557813 - Received CBT.V504.FILE508.PDS from FILE508.XMI 
+2023-04-03 00:48:33.560851 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:48:33.562168 - Found $$NOTES.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/$$NOTES
+2023-04-03 00:48:33.563484 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/$$NOTE1
+2023-04-03 00:48:33.564659 - Found @FILE508.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/@FILE508
+2023-04-03 00:48:33.565919 - Found EXCMD.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/EXCMD
+2023-04-03 00:48:33.567200 - Found EXCMDI.txt (text/plain) in CBT.V504.FILE508.PDS, moved to PDS/EXCMDI
+2023-04-03 00:48:33.575739 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE508.PDS
+2023-04-03 00:48:33.583778   - Received RECFM=U data, stored XMIT file as CBT508/LOADLIB.xmi
