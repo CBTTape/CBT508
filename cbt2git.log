@@ -1,11 +1,11 @@
-2025-04-13 20:18:29.458883 - Received CBT.V508.FILE508.PDS from FILE508.XMI 
-2025-04-13 20:18:29.459607 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:18:29.459693 - Found $$NOTES.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTES
-2025-04-13 20:18:29.459755 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTE1
-2025-04-13 20:18:29.459819 - Found @FILE508.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/@FILE508
-2025-04-13 20:18:29.459885 - Found EXCMD.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMD
-2025-04-13 20:18:29.459949 - Found EXCMDI.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMDI
-2025-04-13 20:18:29.460006 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE508.PDS, moved to PDS/LOADLIB.xmi
-2025-04-13 20:18:29.466051 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
-2025-04-13 20:18:29.466447 - Found EXCMD.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMD
-2025-04-13 20:18:29.466521 - Found EXCMDI.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMDI
+2025-04-15 03:01:48.760536 - Received CBT.V508.FILE508.PDS from FILE508.XMI 
+2025-04-15 03:01:48.761463 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:01:48.761783 - Found $$NOTES.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTES
+2025-04-15 03:01:48.762077 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTE1
+2025-04-15 03:01:48.762384 - Found @FILE508.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/@FILE508
+2025-04-15 03:01:48.762578 - Found EXCMD.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMD
+2025-04-15 03:01:48.762805 - Found EXCMDI.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMDI
+2025-04-15 03:01:48.762973 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE508.PDS, moved to PDS/LOADLIB.xmi
+2025-04-15 03:01:48.769255 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
+2025-04-15 03:01:48.769909 - Found EXCMD.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMD
+2025-04-15 03:01:48.770090 - Found EXCMDI.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMDI
